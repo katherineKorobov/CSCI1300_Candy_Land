@@ -1,0 +1,12 @@
+Player Name: sarah
+Character Name: Caramel_Carl
+Gold: 0
+Stamina: 95
+Candies:  | Toxic Taffy | Frosty Fizz | Toxic Taffy | Fearsome Fudge | Lucky Licorice | Caramel Comet | Crimson Crystal
+--------------------------------------------------------------
+Real Name: john
+Character Name: Chocolate_Charlie
+Gold: 75
+Stamina: 7
+Candies:  | Frosty Fizz | Lucky Licorice | Caramel Comet | Toxic Taffy | Crimson Crystal
+--------------------------------------------------------------
